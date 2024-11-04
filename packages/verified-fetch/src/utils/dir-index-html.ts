@@ -85,7 +85,7 @@ function getItemPath (item: UnixFSEntry): string {
 }
 
 /**
- * @todo: https://github.com/ipfs/boxo/blob/09b0013e1c3e09468009b02dfc9b2b9041199d5d/gateway/handler_unixfs_dir.go#L200-L208
+ * todo: https://github.com/ipfs/boxo/blob/09b0013e1c3e09468009b02dfc9b2b9041199d5d/gateway/handler_unixfs_dir.go#L200-L208
  *
  * @see https://github.com/ipfs/boxo/blob/09b0013e1c3e09468009b02dfc9b2b9041199d5d/gateway/assets/directory.html
  * @see https://github.com/ipfs/boxo/pull/298
