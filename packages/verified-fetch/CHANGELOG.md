@@ -1,3 +1,45 @@
+## [@helia/verified-fetch-v2.0.1](https://github.com/ipfs/helia-verified-fetch/compare/@helia/verified-fetch-2.0.0...@helia/verified-fetch-2.0.1) (2024-10-23)
+
+### Bug Fixes
+
+* allow passing cid encoded ipns keys ([#117](https://github.com/ipfs/helia-verified-fetch/issues/117)) ([1836e40](https://github.com/ipfs/helia-verified-fetch/commit/1836e40b9f4f7eded1c28a5d514b0e7a10d00059))
+
+## [@helia/verified-fetch-v2.0.0](https://github.com/ipfs/helia-verified-fetch/compare/@helia/verified-fetch-1.5.0...@helia/verified-fetch-2.0.0) (2024-10-14)
+
+### ⚠ BREAKING CHANGES
+
+* upgrade to helia v5 (#107)
+
+### Features
+
+* upgrade to helia v5 ([#107](https://github.com/ipfs/helia-verified-fetch/issues/107)) ([91a6473](https://github.com/ipfs/helia-verified-fetch/commit/91a64735f2e463b723d2cba7a14093a968241f61))
+
+### Bug Fixes
+
+* move release config to package ([#115](https://github.com/ipfs/helia-verified-fetch/issues/115)) ([4078358](https://github.com/ipfs/helia-verified-fetch/commit/4078358de8844eba2358e491e87da6ae94b7a1cd))
+
+### Documentation
+
+* change cidv0 to cidv1 in the readme ([#105](https://github.com/ipfs/helia-verified-fetch/issues/105)) ([060e726](https://github.com/ipfs/helia-verified-fetch/commit/060e7265d7ab3d86cf6d1760e9e5d2789f85eb3d))
+
+### Dependencies
+
+* bump aegir from 42.2.11 to 44.1.4 ([#108](https://github.com/ipfs/helia-verified-fetch/issues/108)) ([e36fbff](https://github.com/ipfs/helia-verified-fetch/commit/e36fbffebee6af272b8fbf5cdcbbe1a46ea6b5c5))
+
+## @helia/verified-fetch [1.5.0](https://github.com/ipfs/helia-verified-fetch/compare/@helia/verified-fetch-1.4.3...@helia/verified-fetch-1.5.0) (2024-06-13)
+
+
+### Features
+
+* use the waterworks trustless gateway by default ([#94](https://github.com/ipfs/helia-verified-fetch/issues/94)) ([2db8d1e](https://github.com/ipfs/helia-verified-fetch/commit/2db8d1eb724cfd7ad55179b8123c0d0e8a205b4c))
+
+## @helia/verified-fetch [1.4.3](https://github.com/ipfs/helia-verified-fetch/compare/@helia/verified-fetch-1.4.2...@helia/verified-fetch-1.4.3) (2024-05-24)
+
+
+### Bug Fixes
+
+* gateway conformance improvements ([#85](https://github.com/ipfs/helia-verified-fetch/issues/85)) ([7281078](https://github.com/ipfs/helia-verified-fetch/commit/72810786d7d49f6cc0fbf308717d70cf0740cd4c))
+
 ## @helia/verified-fetch [1.4.2](https://github.com/ipfs/helia-verified-fetch/compare/@helia/verified-fetch-1.4.1...@helia/verified-fetch-1.4.2) (2024-05-16)
 
 
